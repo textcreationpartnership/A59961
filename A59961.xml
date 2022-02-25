@@ -1,0 +1,732 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie, upon the death, of that famous and faithfull minister and martyr, Mr. James Renwick Composed immediately after his execution at Edinburgh, 17. Feb. 1688.</title>
+            <author>Shields, Alexander, 1660?-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59961</idno>
+            <idno type="STC">Wing S3430</idno>
+            <idno type="STC">ESTC R221172</idno>
+            <idno type="EEBO-CITATION">99832532</idno>
+            <idno type="PROQUEST">99832532</idno>
+            <idno type="VID">37006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37006)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2059:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie, upon the death, of that famous and faithfull minister and martyr, Mr. James Renwick Composed immediately after his execution at Edinburgh, 17. Feb. 1688.</title>
+                  <author>Shields, Alexander, 1660?-1700.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>by R. Sanders?],</publisher>
+                  <pubPlace>[Glasgow :</pubPlace>
+                  <date>Printed in the year. 1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴ B² .</note>
+                  <note>By Alexander Shields.</note>
+                  <note>Place of publication and printers name from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Imperfect; pages cropped, stained and torn with loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Renwick, James, 1662-1688 --  Early works to 1800.</term>
+               <term>Martyrdom --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37006:1" rendition="simple:additions"/>
+            <p>AN ELEGIE, UPON The Death, of that Famous and Faithfull Miniſter and Martyr, Mr. <hi>JAMES RENWICK.</hi>
+            </p>
+            <p>Compoſed immediatly after his Execution at <hi>Edinburgh,</hi> 17. Feb. 1688.</p>
+            <q>
+               <bibl>
+                  <hi>Rev. 2.19.</hi>
+               </bibl> I know thy Works, and where thou dwelleſt, even where Satans Seat is: And thou holdeſt faſt my Name and haſt not denyed my Faith, even in thoſe dayes wherein <hi>Antipas</hi> was My Faithfull Martyr, who was ſlain among you, where Satan dwelleth.</q>
+            <figure>
+               <figDesc>printer's device (possibly of R. Sanders of Glasgow; not present in McKerrow), of a winged cherub on a dolphin, bearing a laurel branch and a rod</figDesc>
+            </figure>
+            <p>Printed in the Year, 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:37006:2"/>
+            <pb facs="tcp:37006:2"/>
+            <head>AN ELEGIE, UPON The Death, of that Famous and Faithfull Miniſter and Martyr, Mr. <hi>JAMES RENWICK.</hi>
+            </head>
+            <lg>
+               <l>HEre's work, alas! for Mourners, to deplore</l>
+               <l>This fatal ſtroke, ſadly preſaging more!</l>
+               <l>In ſuch a day, let's hang our harps on willowes:</l>
+               <l>Its not a time of laying heads on pillowes:</l>
+               <l>In ſuch a day of wrath, and Conſternation,</l>
+               <l>In ſuch a day of Dread, and Deſolation;</l>
+               <l>A day of tryal, and of treading down,</l>
+               <l>A day wherein our head hath loſt its Crown,</l>
+               <l>A day of Blaſphemy, Rebuke and Trouble,</l>
+               <l>A day of Darkneſs, and of Sorrows double,</l>
+               <l>A day of great Vexations, and Confuſions,</l>
+               <l>A day of great temptations, and Deluſions,</l>
+               <l>A day of Jumbling, manifold Diſtractions,</l>
+               <l>A day of Stumbling, manifeſt Defections,</l>
+               <l>A day of Famine of the word of Life,</l>
+               <l>A day of Sinning, Suffering, and Strife:</l>
+               <l>When <hi>Babels</hi> Brats the world ſo much encumber,</l>
+               <l>When <hi>Zions</hi> Sons dayly decreaſe in number,</l>
+               <l>When now the Godly ceaſe, the Faithfull fail,</l>
+               <l>When few are left, their Funerals to bewail,</l>
+               <l>When nought but Thorns, where Corn grew, we can find,</l>
+               <l>When Gold is gone, and droſs but left behind,</l>
+               <l>When our <hi>Elijah's, Iſraels's Chariot's</hi> gone.</l>
+               <l>When yet, alas! theſe Mantles left with none,</l>
+               <l>When many Hypocrites Chriſts Fan diſcovers,</l>
+               <l>When few are left, that are his loyal Lovers,</l>
+               <l>When for his laws, theſe few are ſore oppreſſed,</l>
+               <l>When for his cauſe, they're pillag'd and diſtreſſed,</l>
+               <l>When thoſe are hunted, and alwayes afflicted,</l>
+               <l>When of all help, and harbour interdicted,</l>
+               <l>When chaſ'd through Country, and purſu'd in City,</l>
+               <l>When baniſh'd, butcher'd, yet, in ſtead of pity,</l>
+               <l>(When counted ſlaughter ſheep, and daily killed,</l>
+               <l>By ſuch as ſit at eaſe) they much are filled</l>
+               <l>With inſolent contempt, and ſad reproaches,</l>
+               <l>Which of all falſhood, ſtill the father broaches:</l>
+               <l>When <hi>Popiſh</hi> Tyrants, vile <hi>Beelzebubs</hi> drudges,</l>
+               <l>On thrones of tyrrannie, are own'd for judges,</l>
+               <pb facs="tcp:37006:3"/>
+               <l>When now, like ſtupid aſſes, Men are mute,</l>
+               <l>When ſuch Uſurpers challenge abſolute</l>
+               <l>And arbitrary power, to ſacrifice</l>
+               <l>Religion, Laws, and Lives, and Liberties;</l>
+               <l>When faithfull goſpel preachers are ſo few,</l>
+               <l>In ſharing times, to give a warning due;</l>
+               <l>When now foul murdering wolfes, Chriſts flock devour.</l>
+               <l>When watchmen wanting are on Zions Tower,</l>
+               <l>When few that's called ſo deſerve the name,</l>
+               <l>But many are the ages bane and ſhame;</l>
+               <l>When now in ſtead of valour for the truth,</l>
+               <l>And crying loud with trumpets at their mouth,</l>
+               <l>Upon ſuch loudly clamant, clear occaſions;</l>
+               <l>(When <hi>Babels</hi> baſtards boldly make invaſions,</l>
+               <l>By blinding bribes, corrupting flatteries,</l>
+               <l>By cunning craft, and cheating ſhams, and lies</l>
+               <l>Upon our <hi>Covenanted Reformation,</hi>
+               </l>
+               <l>And all our Liberties of Church and Nation</l>
+               <l>Betrayed, by <hi>this Popiſh Toleration.</hi>
+               </l>
+               <l>Whereby this abſolut pow'r is recognoſc'd,</l>
+               <l>And all its proud encroachings are ingroſſ'd,</l>
+               <l>Over Laws Divine, Humane, all made void,</l>
+               <l>Religions legal bulwarks all deſtroy'd,</l>
+               <l>All Blaſphemy, Idolatrie, and ſin,</l>
+               <l>Now ſuffered, yea invited to come in;</l>
+               <l>The church of all her priviledges robb'd,</l>
+               <l>And with a Kiſs, under the fifth rib ſtobb'd;</l>
+               <l>In Liew of all her laws, ſecurities,</l>
+               <l>All Oaths, and Vows, and ſolemn promiſes,</l>
+               <l>Having no more aſſurance, then a blind</l>
+               <l>Promiſe, of one, whom no ſuch bond can bind:</l>
+               <l>Her doctrine, worſhip, and church government,</l>
+               <l>According to <hi>our Solemn Covenant,</hi>
+               </l>
+               <l>All hereby undermin'd and overturn'd,</l>
+               <l>For which her ſons ſhould all have rather mourn'd)</l>
+               <l>Our Miniſters for ſin have made <hi>Addreſſes,</hi>
+               </l>
+               <l>Charmed with <hi>Babels</hi> flattering Carcaſſes,</l>
+               <l>Bewitch'd with this intoxicating drink,</l>
+               <l>Which Hell did brew, and Rome with art did blink:</l>
+               <l>Caſt to a deep Zeal-quenching Lethergie,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urchaſing hereby eaſe, and libertie,</l>
+               <l>On terms of ſelling truth, and ſhifting duty;</l>
+               <l>Whereby Chriſts bride's depriv'd of all her beauty.</l>
+            </lg>
+            <lg>
+               <l>In ſuch a day to loſe a faithfull witneſs,</l>
+               <l>And champion, accompliſhed with fitneſs</l>
+               <l>To ſtrive for Chriſts prerogatives, and laws,</l>
+               <l>Muſt be bemoan'd by all that love his cauſe.</l>
+               <l>Come therefore all ye <hi>Doves,</hi> that dwell i'the rock,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and deplore this wrath preſaging ſtroke;</l>
+               <pb facs="tcp:37006:3"/>
+               <l>Come chaſed <hi>birds</hi> hotly purfu'd to mountaine;</l>
+               <l>Come hunted <hi>harts,</hi> which pant and bray for fountains!</l>
+               <l>Come <hi>wandring ſheep,</hi> without a ſheepherd ſtraying;</l>
+               <l>Come <hi>bidden ones,</hi> afraid of falſe bewraying;</l>
+               <l>Come all ye <hi>faithful followers</hi> of the Lamb,</l>
+               <l>Whoſe hearts in Zeal do for his glory flame,</l>
+               <l>Whoſe hearts in fervent love to Chriſt are burning,</l>
+               <l>Whoſe hearts do melt out at the eyes in mourning;</l>
+               <l>Come, with a flood of tears the valleys fill,</l>
+               <l>And make your voice reſound from hill to hill;</l>
+               <l>Cauſe all the mountains circling round from <hi>Carrick,</hi>
+               </l>
+               <l>With roaring noiſe, rebound as far as <hi>Berwick;</hi>
+               </l>
+               <l>From <hi>Carn-table</hi> skirts, and <hi>Ahingilloch,</hi>
+               </l>
+               <l>To <hi>Marocks</hi> towering hights, and heads of <hi>Killoch;</hi>
+               </l>
+               <l>From <hi>Tintoch-tops,</hi> and all the hills of <hi>Clidſdale,</hi>
+               </l>
+               <l>To all the hills of <hi>Galloway,</hi> and <hi>Nithſdale;</hi>
+               </l>
+               <l>From theſe about <hi>Black-gannoch,</hi> and the <hi>Lothers,</hi>
+               </l>
+               <l>To <hi>Craufoord-muire,</hi> and <hi>Tweddal</hi> hills, and others;</l>
+               <l>Wherein ye hunted were, through all the glens,</l>
+               <l>Wherein ye hiding places ſought in dens,</l>
+               <l>Wherein ye often forced were to flights,</l>
+               <l>Wherein ye often filled were with frights,</l>
+               <l>Wherein your hands were ſtrengthened, heads ſupported,</l>
+               <l>Your minds confirmed, and your hearts comforted,</l>
+               <l>While your Renowned <hi>Renwick,</hi> now a <hi>Martyr,</hi>
+               </l>
+               <l>Was paſſing through, preaching in every quarter,</l>
+               <l>His Maſters glorious and gracious banner</l>
+               <l>Diſplaying faithfully, in lovely manner:</l>
+               <l>Like to a voice in wilderneſſes crying,</l>
+               <l>Making a noiſe moſt ſweet, as ſwans when dying,</l>
+               <l>Declaring all Gods counſel, and revealed</l>
+               <l>Truths, which alive blaſſerted, dying ſealed</l>
+               <l>But now in thoſe waſte deſolate receſſes,</l>
+               <l>No voice is heard, but mourning for diſtreſſes:</l>
+               <l>No voice is heard, but that of grievous groaning,</l>
+               <l>The glory gone, deplorably bemoaning,</l>
+               <l>Come therefore and put on your <hi>ſable,</hi> Saints,</l>
+               <l>Fill all the hills and vales with ſad complaints,</l>
+               <l>Whereof the <hi>Echo</hi> may be heard in Heaven,</l>
+               <l>In lamentation for the blow that's given,</l>
+               <l>Unto the wounded weeping remnant left,</l>
+               <l>Which of their <hi>Renwick</hi> is of late bereft,</l>
+               <l>By murdering violence of beaſts of prey,</l>
+               <l>
+                  <hi>Romes</hi> bloody whelps, torn from his houſe of clay,</l>
+               <l>How may his little flock, alas, complain</l>
+               <l>How may they now, ſo great a loſs ſuſtain<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <hi>Scotland</hi> hath loſt, the world hath loſt a <hi>man,</hi>
+               </l>
+               <l>Whoſe room ſupply, there few ſurviving can<g ref="char:punc">▪</g>
+               </l>
+               <pb facs="tcp:37006:4"/>
+               <l>The church hath loſt a <hi>ſon</hi> more pure and dearer</l>
+               <l>Than <hi>Ophirs</hi> gold the truth a <hi>Standard-bearer;</hi>
+               </l>
+               <l>Zion hath loſt, by this complex diſaſter,</l>
+               <l>A <hi>Witneſs, Wreſtler, Mourner,</hi> and a <hi>Paſtor;</hi>
+               </l>
+               <l>The ſcattered ſheep, a moſt laborious <hi>Leader;</hi>
+               </l>
+               <l>Poor hungry ſouls, have loſt a painfull <hi>Feeder;</hi>
+               </l>
+               <l>The ſufferers, have loſt a <hi>Sympothiſer;</hi>
+               </l>
+               <l>The doubtfull halting ſouls, a good <hi>Adviſer;</hi>
+               </l>
+               <l>The weak, a wiſe encouraging <hi>Supporter;</hi>
+               </l>
+               <l>The wanderers and mourners, a <hi>Comforter;</hi>
+               </l>
+               <l>The tempted ſouls, a <hi>Counſellour</hi> in terrours;</l>
+               <l>The Ignorant, a <hi>Guide</hi> to keep from errours</l>
+               <l>The Zealous, from extreams a holding <hi>Bridle;</hi>
+               </l>
+               <l>The lazy ſort, a <hi>Spurre</hi> from being idle;</l>
+               <l>The temporizing ſort of faint complyers,</l>
+               <l>Duty's deſerters, and Chriſts truth's denyers,</l>
+               <l>May boldly now proceed in their backſliding,</l>
+               <l>Since that they are delivered from his chiding,</l>
+               <l>Who never ceaſ'd to be a free <hi>Reprover,</hi>
+               </l>
+               <l>Nor ſins and ſnares in ſeaſon to <hi>diſcover.</hi>
+               </l>
+               <l>How inſupportable is ſuch a croſs!</l>
+               <l>How irreparable is ſuch a loſs!</l>
+               <l>Oh, let us now make ſearch that we may know</l>
+               <l>What may the meaning be of ſuch a blow!</l>
+               <l>What ſins have this procur'd, let's meditat,</l>
+               <l>What further ſorrows may't prognoſticat?</l>
+               <l>Our miſimprovements let us now confeſs</l>
+               <l>Of ſuch enjoyments, our unworthineſs</l>
+               <l>Of <hi>Renwicks</hi> gracious meſſage, little priſ'd,</l>
+               <l>And of his precious Miniſtrie deſpiſ'd,</l>
+               <l>Our barrenneſs, and baſe ingratitude,</l>
+               <l>Our wearineſs of that Angelick food,</l>
+               <l>Whereof the worth we know now by the want,</l>
+               <l>And muſt henceforth in tears the loſs lament;</l>
+               <l>Theſe have this Rod in righteouſneſs extorted,</l>
+               <l>From a juſt God, and left us uncomforted;</l>
+               <l>A Rod which we may ſadly now ſuppoſe,</l>
+               <l>A fatal forerunner of future woes,</l>
+               <l>Impendent on this baſe degenerat age;</l>
+               <l>The periſhing of worthies muſt preſage,</l>
+               <l>That they delivered are from that which we</l>
+               <l>Are call'd to fear, but cannot bear, nor flee:</l>
+               <l>But thô our loſs be great, his gain is glory,</l>
+               <l>His Life, his Death, ſhall be renown'd in ſtory;</l>
+               <l>VVhich death to us moſt coſtly and moſt painful,</l>
+               <l>Shall to the <hi>Covenanted cauſe</hi> be gainful;</l>
+               <l>In that, in place of a reproached Paſtor.</l>
+               <l>A Martyr now renown'd by this diſaſter.</l>
+               <pb facs="tcp:37006:4"/>
+               <l>Is left us, to their everlaſting ſhame,</l>
+               <l>Who ceaſed not with lies to load his Name,</l>
+               <l>And with reproaches foully to beſpatter,</l>
+               <l>VVhich malice did contrive, and madneſs ſcatter;</l>
+               <l>VVhich fraud invented, as its father fain'd</l>
+               <l>Fury did vent, and folly intertain'd.</l>
+               <l>Now ſhall his Name in Monuments of praiſe,</l>
+               <l>(VVhich to his fame poſterity ſhall raiſe)</l>
+               <l>Still ſtand recorded, that he was a Martyr,</l>
+               <l>Fruitfull in life, faithfull in his departure:</l>
+               <l>Contemn'd indeed by Apoſtats, and Scorners;</l>
+               <l>But eminent among all Zions mourners:</l>
+               <l>For <hi>love</hi> undoubted, and undaunted <hi>faith,</hi>
+               </l>
+               <l>For <hi>conſtancie</hi> unto his final breath,</l>
+               <l>For <hi>patience</hi> abiding in all trial,</l>
+               <l>For <hi>pietie,</hi> and humble <hi>ſelf-denyal,</hi>
+               </l>
+               <l>For <hi>meekneſs</hi> true, in <hi>condeſcending</hi> tender,</l>
+               <l>For <hi>ſtrickneſs</hi> due (he'd not a hoof ſurrender)</l>
+               <l>For uniform true <hi>Zeal</hi> and <hi>Moderation,</hi>
+               </l>
+               <l>Of more then ordinary Elevation;</l>
+               <l>VVhich with an equal pace did ſtill advance,</l>
+               <l>'Gainſt all Defection and extravagance:</l>
+               <l>All Baſtard Zeal oppoſing with all boldneſs,</l>
+               <l>As well as dead <hi>Laodicean</hi> coldneſs:</l>
+               <l>For Miniſterial diligence much fam'd,</l>
+               <l>A VVorkman needing not to be aſham'd;</l>
+               <l>In preaching all the Counſel God reveal'd,</l>
+               <l>His Miniſtrie on many ſouls was ſeal'd,</l>
+               <l>VVhich in his Maſters ſtrength he did commence,</l>
+               <l>And unto its fulfillment did advance,</l>
+               <l>Againſt the violenteſt oppoſition,</l>
+               <l>That ever any Youth in his condition</l>
+               <l>Had to conflict with, and at ſuch a ſeaſon,</l>
+               <l>VVhen dangers ſeem'd invincible to reaſon:</l>
+               <l>For like another <hi>Athanaſius</hi> bold,</l>
+               <l>He all the world oppoſed and control'd,</l>
+               <l>And had all ſorts of men upon his top,</l>
+               <l>All <hi>Prelatiſts,</hi> all Vaſſals of the <hi>Pope,</hi>
+               </l>
+               <l>VVho did purſue him with all rage and rigour,</l>
+               <l>VVith might, and malice, violence, and vigour:</l>
+               <l>Thoſe Brethren alſo, whom, thô ſtill be lov'd,</l>
+               <l>He could not joyn with, but their ſins reprov'd,</l>
+               <l>VVho <hi>unto men their Miniſtry ſubjected.</hi>
+               </l>
+               <l>Or had <hi>ſubmit to miſchiefs they enacted,</hi>
+               </l>
+               <l>Or by <hi>Diſorders had their charge perverted</hi>
+               </l>
+               <l>Or had their <hi>duty in its day deſerted,</hi>
+               </l>
+               <l>Or were in <hi>ſoul Complyances involv'd.</hi>
+               </l>
+               <l>Or thoſe to <hi>doub and plaiſter were reſolv'd</hi>
+               </l>
+               <pb facs="tcp:37006:5"/>
+               <l>
+                  <hi>Or ſhamefully were ſilent at the times</hi>
+               </l>
+               <l>
+                  <hi>Iniquities,</hi> when duties went for crimes;</l>
+               <l>With thoſe to ſtrive, Zeal for his maſters glory;</l>
+               <l>And indignation at their ſilly, ſorry,</l>
+               <l>Fooliſh, and feeble, fainting, cowardice,</l>
+               <l>(That few their <hi>all</hi> for truth durſt ſacrifice)</l>
+               <l>His generous ſoul did vigourouſly excite,</l>
+               <l>For which by ſome he was oppoſ'd with ſpight,</l>
+               <l>With malice, envy, and with cruel rage,</l>
+               <l>That nothing could unto his death aſſwage,</l>
+               <l>Yet mangre all aſſaults, his bow abode</l>
+               <l>In ſtrength, his hands confirm'd by <hi>Jacobs</hi> God:</l>
+               <l>By frowns, from duty, ne're could he be daunted</l>
+               <l>By flatteries, he ne're could be inchanted;</l>
+               <l>No fear of danger could him ever fear,</l>
+               <l>From diligence; Nor diſadvantage mar;</l>
+               <l>Nor any want of good accommodations,</l>
+               <l>Could ſtop his paſtoral exercitations;</l>
+               <l>In painfull preaching, viſiting, baptiſing,</l>
+               <l>In conferences, and in catechiſing;</l>
+               <l>Even when in wandering he had no repoſe,</l>
+               <l>But haggs, or hiding holes, in fear of foes:</l>
+               <l>Nothing to lay his weary head upon;</l>
+               <l>No couch but graſs; No pillow but a ſtone;</l>
+               <l>No better chamber oftimes he could have,</l>
+               <l>Then a dark den; No cloſet but a cave;</l>
+               <l>Yet under all this inconvenience,</l>
+               <l>He could poſſeſs his ſoul in patience;</l>
+               <l>His maſters favour above all things loving,</l>
+               <l>Himſelf as his true Miniſter approving,</l>
+               <l>By purity, by chaſtity unfeigned,</l>
+               <l>By veritie in ſanctity maintained,</l>
+               <l>By wiſdom, patience, by the ſpirits light,</l>
+               <l>By righteouſneſs on the left hand and right,</l>
+               <l>Caring for neither calumnies nor honour,</l>
+               <l>So that he might his conſcience exoner;</l>
+               <l>As a deceiver, yet approven true;</l>
+               <l>As thô well known, yet known but to a few;</l>
+               <l>As daily dying, and yet living ſtill,</l>
+               <l>As chaſtened, yet above their reach to kill;</l>
+               <l>As ſorrowfull, yet joying evermore;</l>
+               <l>As poor, yet making many rich in ſtore;</l>
+               <l>In many wants, in manifold diſtreſſes,</l>
+               <l>In pinching, priſon, and in wilderneſſes,</l>
+               <l>In painfull labours, and in weary watching,</l>
+               <l>In cold, and hunger, ſtill in fear of catching;</l>
+               <l>In many perils, both by ſea and land,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> enemies, and from falſe brethren's hand</l>
+               <pb facs="tcp:37006:5" rendition="simple:additions"/>
+               <l>
+                  <hi>Holland</hi> in part, <hi>Brittain,</hi> and <hi>Ireland</hi> know,</l>
+               <l>VVhat perils he was forc'd to undergo</l>
+               <l>In none of which, he any reſt could find,</l>
+               <l>But everywhere, both foes &amp; friends combin'd,</l>
+               <l>By tongue and hand, him ſtill to perſecute,</l>
+               <l>In a moſt keen and violent purſute:</l>
+               <l>Hence ſuch a priſe was ſet upon his head,</l>
+               <l>As did entice to catch him, quick or dead,</l>
+               <l>Hells hotteſt Harpies; Villains, vileſt Vermine,</l>
+               <l>VVho by all means to take him did determine:</l>
+               <l>Therefore, in fury they the chaſe did follow,</l>
+               <l>By <hi>Hue</hi> and <hi>Cry,</hi> and many hideous hollow;</l>
+               <l>Through Cities, Country, Villages of Boors,</l>
+               <l>Through writteſt Moſſes, and through wildeſt Muirs,</l>
+               <l>Through higheſt Mountains, and remoteſt Glens,</l>
+               <l>Compelling him to Caves, and hidden Dens:</l>
+               <l>VVhere weary, cold, and hungry, he could find</l>
+               <l>No comfort, but what from the Heavens ſhin'd;</l>
+               <l>Yet after all their proud deſigns were done,</l>
+               <l>His work, to them prov'd <hi>Siſyphus</hi> his ſtone;</l>
+               <l>Still with renewed force, afreſh returning,</l>
+               <l>The buſh did burn, but did not waſt in burning;</l>
+               <l>His deſpicable Followers, thô few,</l>
+               <l>The more they were afflicted, more they grew:</l>
+               <l>All <hi>Proclamations,</hi> cruel <hi>Prohibitions,</hi>
+               </l>
+               <l>All <hi>Circuit-Courts</hi> of <hi>Spaniſh Inquiſitions,</hi>
+               </l>
+               <l>(Impoſing conſcience cozning Oaths and Bonds,</l>
+               <l>Recuſants, baniſhing to Forreign-Lands,</l>
+               <l>Or Murdering by bloody Butchers hands</l>
+               <l>Could never either yet their cumbers finiſh,</l>
+               <l>Nor ſo much as their Numbers yet diminiſh,</l>
+               <l>Nor cruſh, nor cool his unapall'd Zeal,</l>
+               <l>Nor of his Miniſtry cancell the Seal,</l>
+               <l>Engraven on the hearts of many hearers,</l>
+               <l>VVho were <hi>Jehovah's</hi> followers and fearers:</l>
+               <l>VVhich now's impreſſed with a deeper ſtamp,</l>
+               <l>Since the expiring of this burning Lamp;</l>
+               <l>Whoſe lateſt ſparklings hath ſo brightly blaz'd,</l>
+               <l>That many eyes were dazled and amaz'd,</l>
+               <l>To ſee now viſibly without a cloud,</l>
+               <l>(And legibly in Characters of blood)</l>
+               <l>The adverſaries tyranny diſcloſ'd,</l>
+               <l>Their calumnies confute, that him oppoſ'd;</l>
+               <l>That thoſe deſpiſed truths have overcome,</l>
+               <l>For which contending, he got Martyrdom.</l>
+               <l>His teſtimony for his Maſters Cauſe,</l>
+               <l>The Churches Liberties, and Nations Laws;</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:37006:6"/>
+               <l>For which in Life, he mightily contended)</l>
+               <l>Now by his Death to many much commended;</l>
+               <l>VVho ſearching what could be the cauſe, or crime,</l>
+               <l>VVherefore he loſt his Life at ſuch a time;</l>
+               <l>Did find that only he was too diſtinct</l>
+               <l>In ſpeaking that, which many others think.</l>
+            </lg>
+            <lg>
+               <l>This was the only Crime, was on him charg'd,</l>
+               <l>Thô to the hight of hainouſneſs enlarg'd;</l>
+               <l>Becauſe theſe ſoul enriching <hi>Randezvouſe,</hi>
+               </l>
+               <l>Of Chriſts <hi>Militia,</hi> in the Fields, or Houſe,</l>
+               <l>The Devils grand eye-ſore, and great vexation,</l>
+               <l>Of all his friends, and foes of Reformation;</l>
+               <l>(VVhere hungry ſouls with heavenly food were nouriſh'd,</l>
+               <l>And where a Banner faithfully was flouriſh'd,</l>
+               <l>For the <hi>Regalia</hi> of the Churches Head,</l>
+               <l>And Liberties, wherewith he hath her freed)</l>
+               <l>He never ſuffer would to be ſuppreſſed,</l>
+               <l>Nor that the duty ſhould not be confeſſed;</l>
+               <l>Now when it was declared Capital,</l>
+               <l>And when by Law diſcharg'd as Criminal;</l>
+               <l>And by its old Promoters now deſerted,</l>
+               <l>VVhom <hi>Popiſh Tolerations</hi> have perverted:</l>
+            </lg>
+            <lg>
+               <l>In ſuch a caſe he vigourouſly contended,</l>
+               <l>That <hi>Meetings</hi> ſhould be valiently defended,</l>
+               <l>By <hi>Arms defenſive,</hi> which the Law of Nature,</l>
+               <l>And Law of God, allowes to every creature:</l>
+               <l>VVhen now they were in daily jeopardice,</l>
+               <l>Of having blood mixt with their Sacrifice.</l>
+            </lg>
+            <lg>
+               <l>This alſo was his Crime, or rather Crown,</l>
+               <l>That he would not a <hi>Popiſh Monſier</hi> own;</l>
+               <l>Sitting upon a Throne of Tyranny,</l>
+               <l>Uſurp'd by rapin, blood, and treachery;</l>
+               <l>Nor pay alledgiance to his <hi>Abſolut pow'r,</hi>
+               </l>
+               <l>As pimp employed for the <hi>Romiſh Where;</hi>
+               </l>
+               <l>Nor ſay, a Robbers Sacriledgions Rod,</l>
+               <l>Was now the Sacred Ordinance of God;</l>
+               <l>When ſuch in Sacred writ, is called rather</l>
+               <l>A <hi>Fox,</hi> or <hi>Dog,</hi> then a <hi>Politick Father.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>In fine, for this he alſo was indyted;</l>
+               <l>Becauſe to bear the Croſs he us invited,</l>
+               <l>Rather than pay an execrable <hi>Ceſs,</hi>
+               </l>
+               <l>Impoſ'd our Goſpel meetings to ſuppreſs,</l>
+               <l>For raiſing Forces Tyranny to ſtrengthen,</l>
+               <l>Our much enthraled miſery to lengthen,</l>
+               <l>For ruine the weak Remnant left devoting,</l>
+               <l>The Church and State Supremacy promoting,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Teſts of lawleſs Loyalty enacted,</l>
+               <l>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> betraying Liberty exacted,</l>
+               <pb facs="tcp:37006:6" rendition="simple:additions"/>
+               <l>The full amount then of his Accuſation,</l>
+               <l>Of all his troubles, the alone occaſion,</l>
+               <l>VVas, <hi>that at wickedneſs he'd never wink;</hi>
+               </l>
+               <l>
+                  <hi>But ſtill ſpoke out, what others durſt but think:</hi>
+               </l>
+               <l>From which, unto the death he would not ſwerve,</l>
+               <l>But boldly ſpake his mind without reſerve,</l>
+               <l>To <hi>Prelatiſts,</hi> and <hi>Papiſts,</hi> in their fury,</l>
+               <l>And to <hi>Profeſſors</hi> ſitting on his jury:</l>
+               <l>Invincibly he all their tricks withſtood,</l>
+               <l>Inflexibly reſiſting unto blood:</l>
+               <l>And for his Life to <hi>Supplicat</hi> diſdain'd,</l>
+               <l>Loſt he ſhould have his <hi>Teſtimony</hi> ſlain'd;</l>
+               <l>By which, though blood of l<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mb he overcam<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</l>
+               <l>And loved <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> too de<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at the ſame</l>
+               <l>VVhich ſ<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>fully h'affirm<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> during brea<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>And faithfully confirmed by his death;</l>
+               <l>In ſuch a meaſure of Humility,</l>
+               <l>Of Patience, Meekneſs, Zeal, and Conſtancy;</l>
+               <l>That it to Enemies hath been confounding,</l>
+               <l>To Neutraliſts conviction much redounding,</l>
+               <l>To Heſitants and Halters Confirmation,</l>
+               <l>And to all Zione mourners Conſolation.</l>
+               <l>Hence in a bloody Chariot he hath gone,</l>
+               <l>To ſee, and ſtand before, <hi>Emmanuel's</hi> Throne;</l>
+               <l>His hands with Palms, his head with pleaſant Bayes,</l>
+               <l>His Cloathes in white, do ſparkle gliſtering Rayes</l>
+               <l>Of Glory; Glory ſinging, and ſalvation</l>
+               <l>To Him that brought him out of tribulation;</l>
+               <l>Unto the Throne and Temple of his God,</l>
+               <l>VVhere everlaſtingly he hath abode:</l>
+               <l>VVhere without intermiſſion night or day,</l>
+               <l>VVhere without interruption or delay,</l>
+               <l>VVithout all cares, without all ſaints or feare,</l>
+               <l>VV<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>out all ſnares, wi<gap reason="illegible" resp="#OXF" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> all plaints or t<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s,</l>
+               <l>He <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ves, be ſings, he ſees the Lamb that's <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ing,</l>
+               <l>And unto Lovely Living VVaters leading:</l>
+               <l>VVhere leave we him, full of <hi>Jehovah's</hi> Joy,</l>
+               <l>VVhom no more ſin, nor ſorrow, can annoy;</l>
+               <l>And reſt lamenting, while in the vale of tears,</l>
+               <l>Our growing grief, and freſh recurring fears.</l>
+            </lg>
+         </div>
+         <div type="anagrams">
+            <pb facs="tcp:37006:7"/>
+            <p>An <hi>Anagram</hi> on his Name, MASTER JAMES RHENVICK <hi>I AM CHRISTs MEEK SERVANT.</hi>
+            </p>
+            <p>Another. MASTER JAMES RENVICK MINE MARCK IS <hi>EVER THE SAME.</hi>
+            </p>
+         </div>
+         <div type="acrostic">
+            <head>An <hi>Acroſtick</hi> on the ſame.</head>
+            <lg>
+               <l>
+                  <hi>M</hi>eekneſs and Magnanimity moſt rare,</l>
+               <l>
+                  <hi>A</hi>dvanc'd thy Actions, with advantage fair,</l>
+               <l>
+                  <hi>S</hi>ubmiſſive Self-denyal, ſuffering ſlights,</l>
+               <l>
+                  <hi>T</hi>uiſted with True Zeal, for <hi>Emmanuel's</hi> Rights,</l>
+               <l>
+                  <hi>E</hi>xtoll'd the Early in Eſteem and Fame,</l>
+               <l>
+                  <hi>R</hi>enowned <hi>Renwick,</hi> EVERMORE THE SAME,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Jehovah,</hi> 
+                  <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Jireh</hi> was thy conſtant Joy,</l>
+               <l>
+                  <hi>A</hi>long thy Alwayes arduous employ:</l>
+               <l>
+                  <hi>M</hi>ag<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>'d Martyr! men the much admire</l>
+               <l>
+                  <hi>E</hi>nemies <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Envy, and enraged ire,</l>
+               <l>
+                  <hi>S</hi>haming them Selves, thy ſufferings to beſpatter</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>R</hi>ep<gap reason="illegible" resp="#OXF" extent="7 letters">
+                     <desc>〈7 letters〉</desc>
+                  </gap>s Reſtleſs, with renown did ſcatter.</l>
+               <l>
+                  <hi>E</hi>n<gap reason="illegible" resp="#OXF" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap> Enterpriſes in all dangers,</l>
+               <l>
+                  <hi>N</hi>oble thy Name have notified to Strangers.</l>
+               <l>
+                  <hi>V</hi>exations Various, ſuffered variety,</l>
+               <l>
+                  <hi>I</hi>mbalm'd thy Innocence to memory.</l>
+               <l>
+                  <hi>C</hi>omfort from Chriſt did ſtop all thy Complaints</l>
+               <l>
+                  <hi>K</hi>ill'd thou for keeping, His Commandements.</l>
+            </lg>
+            <pb facs="tcp:37006:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
